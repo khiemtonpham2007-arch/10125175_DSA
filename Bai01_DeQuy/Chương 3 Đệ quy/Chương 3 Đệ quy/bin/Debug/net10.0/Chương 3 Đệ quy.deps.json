@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Chương 3 Đệ quy/1.0.0": {
+        "runtime": {
+          "Chương 3 Đệ quy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chương 3 Đệ quy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

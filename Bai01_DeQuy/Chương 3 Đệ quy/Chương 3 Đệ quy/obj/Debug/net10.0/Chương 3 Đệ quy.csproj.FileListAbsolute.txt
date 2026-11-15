@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\bin\Debug\net10.0\Chương 3 Đệ quy.exe
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\bin\Debug\net10.0\Chương 3 Đệ quy.deps.json
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\bin\Debug\net10.0\Chương 3 Đệ quy.runtimeconfig.json
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\bin\Debug\net10.0\Chương 3 Đệ quy.dll
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\bin\Debug\net10.0\Chương 3 Đệ quy.pdb
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\obj\Debug\net10.0\Chương 3 Đệ quy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\obj\Debug\net10.0\Chương 3 Đệ quy.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\obj\Debug\net10.0\Chương 3 Đệ quy.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\obj\Debug\net10.0\Chương 3 Đệ quy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\obj\Debug\net10.0\Chương 3 Đệ quy.dll
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\obj\Debug\net10.0\refint\Chương 3 Đệ quy.dll
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\obj\Debug\net10.0\Chương 3 Đệ quy.pdb
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\obj\Debug\net10.0\Chương 3 Đệ quy.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\obj\Debug\net10.0\ref\Chương 3 Đệ quy.dll
+C:\Users\Admin\Desktop\Chương 3 Đệ quy\Chương 3 Đệ quy\obj\Debug\net10.0\Ch__ng 3.B9D0BD84.Up2Date
